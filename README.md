@@ -1,4 +1,5 @@
 #Real-time Eye Blink Detection using OpenCV
+
 This Python script utilizes OpenCV to perform real-time face and eye detection, specifically focusing on detecting eye blinks once the detection is initiated. The script uses Haar cascades for detecting faces and eyes, providing visual feedback on whether eyes are open or closed.
 
 #Requirements:
